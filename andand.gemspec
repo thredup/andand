@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name     = "andand"
-  s.version  = "1.3.1"
-  s.date     = "2008-11-07"
+  s.version  = "1.3.2"
+  s.date     = "2010-09-20"
   s.summary  = "The Maybe Monad in idiomatic Ruby"
   s.email    = "reg@braythwayt.com"
   s.homepage = "hhttp://github.com/raganwald/andand/tree/master"
